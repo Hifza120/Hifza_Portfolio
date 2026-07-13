@@ -50,7 +50,7 @@ export function Certifications() {
         transition={{ duration: 0.5 }}
         className="eyebrow mb-3"
       >
-        // certifications
+        
       </motion.p>
 
       <motion.h2
