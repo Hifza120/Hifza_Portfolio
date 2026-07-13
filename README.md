@@ -67,14 +67,5 @@ Open:
 http://localhost:3000
 ```
 
-## 📬 Contact
-
-**Hifza Nadeem**
-
-- LinkedIn: *(Add your profile)*
-- GitHub: https://github.com/Hifza120
-- Email: *(Add your email)*
-
----
 
 ⭐ If you like this project, consider giving it a star!
